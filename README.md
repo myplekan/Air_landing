@@ -1,46 +1,13 @@
-{
-  "name": "gulp-boilerplate",
-  "version": "1.0.0",
-  "description": "Frontend boilerplate based on gulp",
-  "scripts": {
-    "init": "mate-scripts init",
-    "start": "mate-scripts start",
-    "lint": "mate-scripts lint",
-    "test:only": "mate-scripts test",
-    "build": "mate-scripts build",
-    "deploy": "mate-scripts deploy",
-    "update": "mate-scripts update",
-    "postinstall": "npm run update",
-    "test": "npm run lint && npm run test:only"
-  },
-  "keywords": [],
-  "author": "Mate Academy",
-  "license": "GPL-3.0",
-  "devDependencies": {
-    "@linthtml/linthtml": "^0.8.3",
-    "@mate-academy/bemlint": "^0.1.1",
-    "@mate-academy/eslint-config": "*",
-    "@mate-academy/linthtml-config": "0.0.2",
-    "@mate-academy/scripts": "^1.2.12",
-    "@mate-academy/stylelint-config": "0.0.9",
-    "@parcel/transformer-sass": "^2.10.2",
-    "colors": "^1.3.3",
-    "cross-env": "^7.0.3",
-    "eslint": "^5.16.0",
-    "eslint-plugin-node": "^9.0.1",
-    "gh-pages": "2.0.0",
-    "gulp-htmllint": "0.0.16",
-    "node-sass": "^4.14.1",
-    "parcel": "^2.10.2",
-    "stylelint": "^13.5.0",
-    "stylelint-config-recommended-scss": "^3.3.0",
-    "stylelint-scss": "^3.17.2"
-  },
-  "browserslist": [
-    "last 2 versions"
-  ],
-  "mateAcademy": {
-    "projectType": "layout"
-  },
-  "dependencies": {}
-}
+# Air landing
+
+1. Short project description:
+    - The "Air" project is a website for a creative agency specializing in strategic thinking and creative ideas. The site includes information about the agency, services offered, client testimonials, and contact details.
+2. Technologies Used:
+    - HTML, CSS, JavaScript: For frontend development.
+    - Swiper.js: For implementing a carousel on the main page.
+    - Sass: For styling pre-processing.
+3. Preview:
+    - [View Air Website Preview](https://myplekan.github.io/Air_landing/)
+4. Design Mockup:
+View MyBiKE Design Mockup
+  - [View Air Design Mockup](https://www.figma.com/file/7qwsWggv9BAxMi2VPhBuPr/Air-%28formerly-Dia%29?type=design&node-id=0-1&mode=design&t=z9zfw73zBuHKoYhE-0/)
