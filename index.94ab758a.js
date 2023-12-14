@@ -1,0 +1,2 @@
+new Swiper(".swiper",{loop:!0,navigation:{nextEl:".swiper-button-next",prevEl:".swiper-button-prev"}}),window.addEventListener("hashchange",function(){"#menu"===window.location.hash?document.body.classList.add("page__body--hidden"):document.body.classList.remove("page__body--hidden")});var e=document.querySelector(".send__form");e.addEventListener("submit",function(n){n.preventDefault(),e.reset()});
+//# sourceMappingURL=index.94ab758a.js.map
